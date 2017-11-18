@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "gnarang",
+      "password": "admin",
+      "favourites": [
+        2,
+        "o0oVOWz",
+        "ph_WuEp"
+      ]
+    },
+    {
+      "id": "akumar",
+      "password": "admin",
+      "favourites": [
+        5,
+        3,
+        "o0oVOWz"
+      ]
+    }
+  ],
+  "blog": [
+    {
+      "title": "Miss World 2017",
+      "category": "Entertainment",
+      "description": "India's Manushi Chhillar has won the Miss World beauty pageant for the year 2017. The win comes 17 years after Priyanka Chopra brought home the coveted title in the year 2000.\n\nStephanie Hill, who is Miss England was the first runner up and Miss Mexico Andrea Meza was second runner up.",
+      "author": "akumar",
+      "date": "2017-11-18T16:16:57.834Z",
+      "id": "jt3lBrM"
+    },
+    {
+      "title": "Xiaomi Redmi y1",
+      "category": "Technology",
+      "description": "The Xiaomi Redmi Y1 32GB mobile features a 5.5\" (13.97 cm) display with a screen resolution of HD (720 x 1280 pixels) and runs on Android v7.1.2 (Nougat) operating system. The device is powered by Octa core, 1.4 GHz, Cortex A53 processor paired with 3 GB of RAM. As far as the battery is concerned it has 3080 mAh. Over that, as far as the rear camera is concerned this mobile has a 13 MP camera . Other sensors include Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope.",
+      "author": "akumar",
+      "date": "2017-11-18T16:18:44.032Z",
+      "id": "njBSx8h"
+    },
+    {
+      "title": "About Sachin",
+      "category": "Sports",
+      "description": "Sachin Ramesh Tendulkar (born 24 April 1973) is a former Indian cricketer and a former captain, widely regarded as the greatest batsman of all time.[4] The highest run scorer of all time in International cricket, Tendulkar took up cricket at the age of eleven, made his Test debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen, and went on to represent Mumbai domestically and India internationally for close to twenty-four years. He is the only player to have scored one hundred international centuries, the first batsman to score a double century in a One Day International, the holder of the record for the most number of runs in both ODI and Test cricket, and the only player to complete more than 30,000 runs in international cricket.[5]",
+      "author": "gnarang",
+      "date": "2017-11-18T16:21:01.218Z",
+      "id": "xra3ZBU"
+    },
+    {
+      "title": "Beti Bachao Beti Padhao",
+      "category": "Education",
+      "description": "Beti Bachao, Beti Padhao (translation: Save girl child, educate a girl child) is a social campaign of the Government of India that aims to generate awareness and improve the efficiency of welfare services intended for girls. The scheme was launched with an initial funding of ₹100 crore (US$16 million).[1] It has been the target of fraudsters in Uttar Pradesh, Haryana, Uttarakhand, Punjab, Bihar and Delhi.[2][3]\nAccording to census data, the child sex ratio (0–6 years) in India was 927 girls per 1,000 boys in 2001, which dropped to 918[1] girls for every 1,000 boys in 2011. A 2012 UNICEF report ranked India 41st among 195 countries.[citation needed]\nSpeaking on the occasion of International Day of the Girl Child in 2014, the Prime Minister, Narendra Modi had called for the eradication of female foeticide and invited suggestions from the citizens of India via the MyGov.in portal.[4]\nThe Beti Bachao, Beti Padhao (BBBP) scheme was launched on 22 January 2015 by Modi..[5][6] It aims to address the issue of the declining child sex ratio image (CSR) and is a national initiative jointly run by the Ministry of Women and Child Development, the Ministry of Health and Family Welfare and the Ministry of Human Resource Development. It initially focused multi-sector action in 100 districts throughout the country where there was a low CSR.",
+      "author": "gnarang",
+      "date": "2017-11-18T16:22:12.798Z",
+      "id": "Ut5gBzv"
+    }
+  ]
+}

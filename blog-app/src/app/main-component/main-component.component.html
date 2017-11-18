@@ -1,0 +1,20 @@
+<app-nav-bar (notify)="setComponent($event)"></app-nav-bar>
+<div>
+  <div class = "col-md-3">
+    <app-category (notify)="setCategory($event)"></app-category>
+  </div>
+  <div class="col-md-6">
+    <app-create-blog *ngIf="value==2" [blogToUpdate]="blogToUpdate"></app-create-blog>
+    <div *ngIf="value>0">
+      <app-display-blog [blogs]="blogs" [value]="value"></app-display-blog>
+      <div *ngIf="value>2">
+        <app-display-blog [blogs]="blogs" [value]="value" [category]="category"></app-display-blog>
+      </div>
+    </div>
+    <div *ngIf="value == 0">
+      <app-display-blog [blogs]="blogs" [value]="value" (notify)="updateBlog($event)"></app-display-blog>
+    </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,14 @@
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand">Blogger</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a (click)="setButtonClicked(0)">Home</a></li>
+      <li><a (click)="setButtonClicked(1)">Favourites</a></li>
+    </ul>
+    <div class="createNew">
+      <button type="button" class="btn btn-primary btn-md" (click)="setButtonClicked(2)">Create Post</button>
+    </div>
+  </div>
+</nav>
